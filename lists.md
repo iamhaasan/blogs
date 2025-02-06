@@ -1,9 +1,9 @@
----
+
 # List
 ## Definition
 * list  in HML is used to group related elements.
----
 
+---
 ### Types of List
 
 1. Ordered List (`<ol>`) - sequence list (1,2,3...) (a,b,c,..) (A,B,C....)(i,ii,iii, .....).
